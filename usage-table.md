@@ -1,0 +1,10 @@
+This table aims to help instructors/educators understand how features with different randomization levels can affect their students' approaches to solving a problem.
+
+| Level | Label | Effect on Approach | Example Features | Pedagogical Considerations | Logistical Considerations |
+| - | - | - | - | - | - |
+| L0 | Unrandomized | N/A | N/A | <li>May result in students memorizing answers.</li> | <li>Offers weakest exam security.</li> | |
+| L1 | Surface Features | Students do not need to account for the feature in their approach. | Changing order of MC options, variable names | <li>Helps students practice question understanding and extract important information.</li> <li>Tests student understanding on a specific type or pattern of question.</li> | <li>Discourages answer sharing within exam room.</li>|
+| L2 | Conditions | Students can reuse the exact same approach across question variants.  | Changing initial values and states | <li>Helps students practice calculations and execute algorithms.</li> <li>Tests student understanding on a specific type or pattern of question</li> | <li>Discourages answer sharing within the exam room.</li> |
+| L3 | Scenarios | Students can use a similar approach with slight adjustments across question variants. | Giving different cases of the same algorithm | <li>Modifies question scenarios to help students build critical thinking skills</li> <li>Tests student understanding of multiple scenarios within a concept</li> | <li>Protects against meaningful information leak.</li> <li>May lead to a slight variance in difficulty. </li>
+| L4 | Concepts | Students have to use different approaches across question variants. | Asking about different data structures and implementations | <li>Modifies question concepts to help students build critical thinking skills.</li> <li>Tests student understanding of multiple concepts.</li> | <li>Protects against meaningful information leak.</li> <li>May lead to a moderate variance in difficulty </li> |
+| L5 | Different Questions | N/A | N/A | <li>Enables multiple attempts of assessments</li> | <li>Offers strongest exam security.</li><li>May lead to a wide variance in difficulty.</li>|
