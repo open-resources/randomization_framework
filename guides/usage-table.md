@@ -1,4 +1,7 @@
-This table aims to help instructors/educators understand how features with different randomization levels can affect their students' approaches to solving a problem.
+# Usage Table 
+For instructors looking to design randomized computer-based questions for their courses, there are several considerations to keep in mind. 
+Implementation complexity may increase with higher levels of randomization and each level of randomization introduces variable effects on the problem-solving approach, so it is important to align decisions with available resources and instructional goals.
+The table below outlines these pedagogical and logistical considerations associated with each level of our [randomization framework](https://github.com/open-resources/randomization_framework/blob/main/framework.md)
 
 | Level | Label | Effect on Approach | Example Features | Pedagogical Considerations | Logistical Considerations |
 | - | - | - | - | - | - |
