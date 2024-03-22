@@ -4,3 +4,5 @@
 </p>
 
 To address the limitations in describing the diversity of question randomization, we introduce a [randomization framework](https://github.com/open-resources/randomization_framework/blob/main/framework.md) that outlines six distinct randomization levels. We also include practical guides, including a [decision tree](https://github.com/open-resources/randomization_framework/blob/main/guides/decision-tree.md) and a [usage table](https://github.com/open-resources/randomization_framework/blob/main/guides/usage-table.md), to assist educators in effectively using the framework.
+
+### Published abstract https://dl.acm.org/doi/10.1145/3626253.3635599
